@@ -175,6 +175,7 @@ tool-googleslides
 tool-ipad
 tool-zetaalpha-reader
 
+logistics
 question-clarification
 question-planned
 reproducing-experiments

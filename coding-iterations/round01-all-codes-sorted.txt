@@ -81,6 +81,7 @@ discovering-repeated-citations
 ensuring-novelty
 extend-prior-work
 lit-review-due-diligence
+logistics
 minimize-information-overlap
 ml-problem
 ml-researcher

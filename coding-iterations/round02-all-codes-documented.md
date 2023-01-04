@@ -185,6 +185,6 @@ Interview-logistics:
 1. `speaker-ack`
 1. `speaker-filler`: speech disfluence or non important content.
 1. `speaker-tech-context`: speaker explaining their technical aspects or context.
-1. `thing-aloud-prompt-3`
-1. `thing-aloud-prompt-2`
-1. `thing-aloud-prompt-1`
+1. `think-aloud-prompt-3`
+1. `think-aloud-prompt-2`
+1. `think-aloud-prompt-1`

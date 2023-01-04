@@ -73,6 +73,7 @@ discovering-repeated-citations
 ensuring-novelty
 extend-prior-work
 lit-review-due-diligence
+logistics
 method-development
 method-finding
 minimize-information-overlap
