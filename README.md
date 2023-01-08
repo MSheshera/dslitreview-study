@@ -16,6 +16,7 @@ The version of the paper published by ACM can be accessed here: TODO.
 
 ### Repository Contents
 
+```
 ├── README.md
 ├── codes-extended-quotes-themes.md
 └── coding-iterations
@@ -25,6 +26,7 @@ The version of the paper published by ACM can be accessed here: TODO.
     ├── round02-all-codes-documented.md
     ├── round02-all-codes-sorted.txt
     └── round03-all-codes-sorted.txt
+```
 
 This repository contains the materials resulting from the qualitative analysis of 20 participant data scientists: codes resulting from 3 rounds of coding and quotes by participants organized into the themes reported in the paper:
 
