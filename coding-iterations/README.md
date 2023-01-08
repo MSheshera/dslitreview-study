@@ -1,7 +1,7 @@
 The following files contain the codes generated in 3 rounds of qualitative coding:
 
 - `round01-all-codes-sorted.txt`: This file contains a sorted set of 177 codes generated in the first round of open coding after having coded 5 interview/think-aloud transcripts.
-- `round01-all-codes-annotated.md`: This file contains short annotation indicating the result of discussion between coders after the first round of coding. Note that not all codes have an annotation.
-- `round02-all-codes-documented.md`: Thie file contains an unified set of 167 codes generated after discussion between the coders after the first round of qualitative coding on 5 interview/think-aloud transcripts. The reported agreement in the paper stems from application of these codes to the 5 interview/think-aloud transcripts
-- `round02-all-codes-sorted.txt`: This file contains the same contents as `round02-all-codes-documented.md` but in plain-text format to ease comparision between files with command-line tools.
+- `round01-all-codes-annotated.md`: This file contains short annotations for `round01-all-codes-sorted.txt` indicating the result of discussion between coders after the first round of coding. Note that not all codes have an annotation.
+- `round02-all-codes-documented.md`: This file contains an unified set of 167 codes generated after discussion (as noted in `round01-all-codes-annotated.md`) between the coders after the first round of qualitative coding on 5 interview/think-aloud transcripts. The reported agreement in the paper stems from application of these codes to the 5 interview/think-aloud transcripts
+- `round02-all-codes-sorted.txt`: This file contains the same contents as `round02-all-codes-documented.md` but in plain-text format to ease comparison between files with command-line tools.
 - `round03-all-codes-sorted.txt`: This file contains the final set of 225 codes generated from coding all 20 interviews. This adds 59 additional codes to `round02-all-codes-sorted.txt` of which 26 are additional tools/websites used by participants and 22 represent new practices and pain-points.
