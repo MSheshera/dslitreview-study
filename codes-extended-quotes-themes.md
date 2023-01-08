@@ -1,34 +1,8 @@
 # Extended quotes corresponding to the themes
 
-## Contents
-1. [Why do data scientists access the scientific literature?](#whyds)
-	1. [Actively understanding disciplinary norms](#whyds_active)
-	1. [Resources sought for active understanding](#whyds_active_resources)
-	1. [Passively following a discipline](#whyds_passive)
-	1. [Brainstorming solutions](#whyds_develop)
-	1. [Seeking solutions for application](#whyds_application)
-	1. [Package an idea](#whyds_sell)
-1. [How do data scientists access the scientific literature?](#howds)
-	1. [Data scientists seeking the literature](#howds_search)
-	1. [The literature finding data scientists](#howds_rec)
-	1. [Soliciting recommendations from peers](#howds_social_rec)
-1. [How do data scientists select papers?](#howselect)
-	1. [An onslaught of papers](#howselect_onslaught)
-	1. [Establishing the credibility of papers](#howselect_cred)
-	1. [Everyone skims papers](#howselect_skim)
-1. [What do data scientists do with found papers?](#whatfound)
-	1. [A multitude of workflows with a preference for simplicity](#whatfound_simple)
-	1. [Annotations to retain context](#whatfound_context)
-1. [How do data scientists struggle in reading papers?](#howread)
-	1. [Understanding the hidden details](#howread_details)
-	1. [Understanding the math on display](#howread_math)
-	1. [Struggling to understanding the increments of progress](#howread_increments)
-	1. [The artifacts surrounding a paper](#howread_artifacts)
-1. [How data scientists lean on social ties](#howsocial)
-	1. [Collaboratively brainstorming and making sense of papers](#howsocial_collabbrain)
-	1. [Leveraging authors](#howsocial_authors)
-	1. [Listening into others conversations](#howsocial_others)
-
+Some notes:
+- Quotes may be examined by expanding the folded sections.
+- Participant IDs have been redacted (set to PX) to protect their privacy.
 
 ### Why do data scientists access the scientific literature? <a name="whyds"></a>
 
