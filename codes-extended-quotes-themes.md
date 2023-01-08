@@ -32,10 +32,8 @@
 
 ### Why do data scientists access the scientific literature? <a name="whyds"></a>
 
-<details><summary>Actively understanding disciplinary norms</summary>
+<details><summary>**Actively understanding disciplinary norms** <a name="whyds_active"></a></summary>
 <p>
-
-**Actively understanding disciplinary norms** <a name="whyds_active"></a>
 
 * understanding-discipline, 12
 > Sure i've been doing full time research for about two years and so often when i'm starting work in a  problem ... i'm not sufficiently familiar with to work to really know what the typical approaches are, how is this evaluated, what kinds of approaches people are falling out of favor versus becoming more accepted by the community - PX
