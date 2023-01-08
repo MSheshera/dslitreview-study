@@ -32,6 +32,9 @@
 
 ### Why do data scientists access the scientific literature? <a name="whyds"></a>
 
+<details><summary>Actively understanding disciplinary norms</summary>
+<p>
+
 **Actively understanding disciplinary norms** <a name="whyds_active"></a>
 
 * understanding-discipline, 12
@@ -58,6 +61,9 @@
 > The first question that comes to mind for any researcher is what has been already done, are there similar problems which have already been tackled Or related problems whose corresponding methods might be used in my problem and i use it. - PX
 > 
 > So this [Related Problems] section eventually would be an important section for that context, I would I would want to see what, and this is, I wouldn't say You know, like it or hate it and probably most people love Wikipedia but for most generic enough problems or keywords there is this section and it's an incredibly powerful section. I think I would go through these, not through all of these maybe like this one i'm less interested in, but these are absolutely all relevant sections, so I wil follow up on it. - PX
+
+</p>
+</details>
 
 **Resources sought for active understanding** (excluded from the paper) <a name="whyds_active_resources"></a>
 
@@ -690,7 +696,7 @@
 
 ---
 
-### Not categorized because of being too infrequent, incorrect, or not a focus for us.
+### Unorganized because of being too infrequent, incorrect, or not a focus for the paper.
 
 **Practices and painpoints**
 
