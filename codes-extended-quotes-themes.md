@@ -32,7 +32,7 @@
 
 ### Why do data scientists access the scientific literature? <a name="whyds"></a>
 
-<details><summary>**Actively understanding disciplinary norms** <a name="whyds_active"></a></summary>
+<details><summary><b>Actively understanding disciplinary norms</b> <a name="whyds_active"></a></summary>
 <p>
 
 * understanding-discipline, 12
