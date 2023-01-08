@@ -542,7 +542,7 @@ Some notes:
 </p>
 </details>
 
-### How do data scientists struggle in reading papers? <a name="howread"></a>
+### What challenges do data scientists face in reading papers? <a name="howread"></a>
 
 <details><summary><b>Understanding the hidden details</b> <a name="howread_details"></a></summary>
 <p>
