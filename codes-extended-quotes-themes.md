@@ -63,7 +63,8 @@
 </p>
 </details>
 
-**Resources sought for active understanding** (excluded from the paper) <a name="whyds_active_resources"></a>
+<details><summary><b>Resources sought for active understanding</b> (excluded from the paper) <a name="whyds_active_resources"></a></summary>
+<p>
 
 * seeking-survey-papers, 7
 > What I [try] to do is start with a survey paper first. So that I know which papers to focus on and then based on that go deeper individually or those papers. - PX
@@ -98,7 +99,11 @@
 
 * seeking-demonstration-papers, 1
 
-**Passively following a discipline** <a name="whyds_passive"></a>
+</p>
+</details>
+
+<details><summary><b>Passively following a discipline</b> <a name="whyds_passive"></a></summary>
+<p>
 
 * action-updating-on-lit, 9
 > Literally reading from time to time to keep up with what's happening in the field. - PX
@@ -120,7 +125,11 @@
 > 
 > I could very easily you know miss a lot of interesting threads, I know I missed a lot of interesting threads, they just get buried. - PX
 
-**Brainstorming solutions** <a name="whyds_develop"></a>
+</p>
+</details>
+
+<details><summary><b>Brainstorming solutions</b> <a name="whyds_develop"></a></summary>
+<p>
 
 * seeking-research-frontier, 10
 > making sure i'm not redoing stuff that's been done before that's like one major aspect figuring out like open questions and existing work that I could work on - PX
@@ -146,7 +155,11 @@
 > 
 > I see like what what is out there who are me what what our competitors doing we kind of know like you know certain certain players in the space in the document space - PX
 
-**Seeking solutions for application** <a name="whyds_application"></a>
+</p>
+</details>
+
+<details><summary><b>Seeking solutions for application</b> <a name="whyds_application"></a></summary>
+<p>
 
 * method-finding, 16
 > So when i search for literature I am looking for existing methods which do what i am doing. What are other people doing to solve this. Is it even solved? Are there methods which already solve this problem? - PX
@@ -164,7 +177,11 @@
 
 * reproducing-experiments, 2
 
-**Package an idea** (excluded from the paper) <a name="whyds_sell"></a>
+</p>
+</details>
+
+<details><summary><b>Package an idea</b> (excluded from the paper) <a name="whyds_sell"></a></summary>
+<p>
 
 * contextualize-own-work, 8
 > At the end, if am writing a paper, ive developed a method, i have run my experiments, i am at the end stage. Whatever you are proposing, you need to locate it in the existing landscape of science and scientific literature. So its a duty but its also how we do research. Its the core of how you advance scientific knowledge in a way. - PX
@@ -181,11 +198,13 @@
 > 
 > So for that I was reading papers focusing not only on developing new methods but how to apply those methods on real wold data. So I usually start with focusing on the main problem I am trying to solve, so under generalization formalizing it better and understanding under what settings it works. - PX
 
----
+</p>
+</details>
 
 ### How do data scientists access the scientific literature? <a name="howds"></a>
 
-**Data scientists seeking the literature** <a name="howds_search"></a>
+<details><summary><b>Data scientists seeking the literature</b> <a name="howds_search"></a></summary>
+<p>
 
 * action-web-search, 14
 > So I usually search by a very broad term like, ... i'd like to see if it's returning anything reasonable. - PX
@@ -234,8 +253,11 @@
 > (no quotable)
 > 
 
-**The literature finding data scientists** <a name="howds_rec"></a>
+</p>
+</details>
 
+<details><summary><b>The literature finding data scientists</b> <a name="howds_rec"></a></summary>
+<p>
 
 * action-intentional-subscription, 7
 > I guess, this is more recent, but there are like a few researchers who select like 10 papers every week I think on Twitter - PX
@@ -297,7 +319,11 @@
 > (no quotable)
 >
 
-**Soliciting recommendations from peers** (merged into another theme in the paper) <a name="howds_social_rec"></a>
+</p>
+</details>
+
+<details><summary><b>Soliciting recommendations from peers</b> (merged into another theme in the paper) <a name="howds_social_rec"></a></summary>
+<p>
 
 * action-social-recommendation, 14
 * action-seek-experts, 1   
@@ -317,9 +343,14 @@
 > 
 > When I was starting a new project I would either be given a paper by my supervisor or I would ask them for some places to start. ... During our initial conversations I'll be like hey so since they usually have been going over the ideas I would ask if they have any literature to point me to. - PX
 
+</p>
+</details>
+
+
 ### How do data scientists select papers?
 
-**An onslaught of papers** <a name="howselect_onslaught"></a>
+<details><summary><b>An onslaught of papers</b> <a name="howselect_onslaught"></a></summary>
+<p>
 
 * pp-unfocussed-search, 11
 > The most frequent reasons of frustration ... is getting bombarded with a lot of results ... you just wanted to do a shallow focused lit review and probably get some open source code to try out something but instead you kind of went back into that rabbit hole. - PX
@@ -386,7 +417,11 @@
 * pp-more-survey-papers, 1
 > (no quotable) 
 
-**Establishing the credibility of papers** <a name="howselect_cred"></a>
+</p>
+</details>
+
+<details><summary><b>Establishing the credibility of papers</b> <a name="howselect_cred"></a></summary>
+<p>
 
 * action-connect-toknown, 7
 > I particularly picked this paper out of the whole lot, because I know of two authors here, who I followed their work before, so I know that it's or I like it's a good paper, I might be aware of what they have done before. - PX
@@ -436,7 +471,11 @@
 > I never know how deeply I should be reading any given paper and there's this frustration of always having to come back and possibly read it again because I did not read it deeply enough the first time - PX
 >
 
-**Everyone skims papers** <a name="howselect_skim"></a>
+</p>
+</details>
+
+<details><summary><b>Everyone skims papers</b> <a name="howselect_skim"></a></summary>
+<p>
 
 * action-skimming, 17
 > Mostly look at figures because I feel they [an idea of] if it's done in a correct way. They give a quick overview. These confusion matrices, for example, really help in easily understanding what kind of results they get. - PX
@@ -463,13 +502,15 @@
 * action-skimming-figures, 4
 * action-skimming-baselines, 3
 
----
+</p>
+</details>
 
 ### What do data scientists do with found papers? <a name="whatfound"></a>
 
 (excluded from the paper)
 
-**A multitude of workflows with a preference for simplicity** <a name="whatfound_simple"></a>
+<details><summary><b>A multitude of workflows with a preference for simplicity</b> <a name="whatfound_simple"></a></summary>
+<p>
 
 * action-paper-management, 14
 * action-topical-organizing, 7
@@ -487,7 +528,11 @@
 * action-browser-bookmark, 5
 > (very similar to action-paper-management) 
 
-**Annotations to retain context** <a name="whatfound_context"></a>
+</p>
+</details>
+
+<details><summary><b>Annotations to retain context</b> <a name="whatfound_context"></a></summary>
+<p>
 
 * action-note-taking, 16
 * action-paper-annotation, 7
@@ -520,11 +565,13 @@
 
 * (above codes are all similar)
 
----
+</p>
+</details>
 
 ### How do data scientists struggle in reading papers? <a name="howread"></a>
 
-**Understanding the hidden details** <a name="howread_details"></a>
+<details><summary><b>Understanding the hidden details</b> <a name="howread_details"></a></summary>
+<p>
   
 * action-seek-code, 7
 > Literally looking at a paper and seeing whether other people have code which uses that same algorithm or whether they've run into similar issues we have run into or whether there is an official repository for this sort of research paper. - PX
@@ -544,8 +591,12 @@
 > A lot of times in the paper you don't get the complete idea of the details. - PX
 > 
 > And then of course there's always a thing that if have the time to read a paper and you are getting into it and you face a lot of detail. Sometimes, thanks to length and sometimes these certain details have to be omitted and, at times, those are the very details that would cause certain confusion to a reader. - PX 
+
+</p>
+</details>
  
-**Understanding the math on display** <a name="howread_math"></a>
+<details><summary><b>Understanding the math on display</b> <a name="howread_math"></a></summary>
+<p>
 
 * pp-mathy-writing, 8
 > Oftentimes these papers are very technical and I might not be very well versed with the technical terms just yet so a very simple example can be very helpful. A real life scenario which can be connected very easily and with that example if the author [shows] the shortcomings of the previous work and how the current work excels, it becomes very clear. - PX 
@@ -560,7 +611,11 @@
 > I've written for niche audiences ... even for this niche audience it is having to show that this is important or useful and often like that means that they will add equations, theorems [for an idea] that is really are not as complicated ... if there's a lot of math or if it's hard to understand it must be impressive. - PX
 > 
 
-**Struggling to understanding the increments of progress** <a name="howread_increments"></a>
+</p>
+</details>
+
+<details><summary><b>Struggling to understanding the increments of progress</b> <a name="howread_increments"></a></summary>
+<p>
 
 * action-diff-to-paper, 6
 > So when you're not an expert ... once you've read 10, 20, 30 papers it becomes a lot clearer what the core idea is and what the delta from the core is. ... For things you're not as well versed in it's it's often just a nightmare, when you don't know the context in which the paper is being written. Understanding what exists in the literature and what doesn't is hard, then what the contribution is and why the contribution matters is hard. - PX 
@@ -595,7 +650,11 @@
 * pp-missing-experiments, 2
 > Also, sometimes incomplete comparisons to algorithms are frustrating. So let's say you're using a specific algorithm already and they don't compare against that. Not that the author's themselves will be able to compare with every algorithm under the sun, but it's if you're in the same domain it kind of gets frustrating - PX (relates to diff to paper)
 
-**The artifacts surrounding a paper** (excluded from the paper) <a name="howread_artifacts"></a>
+</p>
+</details>
+
+<details><summary><b>The artifacts surrounding a paper</b> (excluded from the paper) <a name="howread_artifacts"></a></summary>
+<p>
  
 * pp-bad-code, 4
 > Mostly it usually falls into the bucket of incomplete reproducibility Of the work, whether it be a code guidelines, so yeah it usually falls into the reproducibility especially using code Or they do but then it's like very hard to reproduce it. - PX
@@ -611,11 +670,13 @@
 * pp-outdated-resource, 1
 > it would be nice to have sort of a website that just lets down an updated version of all the Open Source thing related to a particular topic Like sort of your papers with code but papers with code also doesn't update by saying oh hey this data set doesn't exist anymore Or it as a new, updated version that It that had made corrections on some errors that was there in the older version, or something like that. - PX
 
----
+</p>
+</details>
 
 ### How data scientists lean on social ties <a name="howsocial"></a>
 
-**Collaboratively brainstorming and making sense of papers** <a name="howsocial_collabbrain"></a>
+<details><summary><b>Collaboratively brainstorming and making sense of papers</b> <a name="howsocial_collabbrain"></a></summary>
+<p>
     
 * action-existing-mentor-discussion, 14
 * action-note-sharing, 5
@@ -650,7 +711,11 @@
 
 * (above codes are all similar)
 
-**Leveraging authors** <a name="howsocial_authors"></a>
+</p>
+</details>
+
+<details><summary><b>Leveraging authors</b> <a name="howsocial_authors"></a></summary>
+<p>
  
 * action-initiate-author-discussion, 5
 > First off, if I find a paper very important paper for my work ... I do reach out [to the authors] by email a lot. Sometimes its about the methods themselves, and i might have a question about an algorithm. For example, is this algorithm the same as a [another algorithm] or if the limitations are not clearly stated. - PX
@@ -663,7 +728,11 @@
 > 
 > Sometimes it happens ... my boss kind of find certain things and then says hey I think we should work with them, and puts you in touch with them. - PX
 
-**Listening into others conversations** (merged into another theme in the paper) <a name="howsocial_others"></a>
+</p>
+</details>
+
+<details><summary><b>Listening into others conversations</b> (merged into another theme in the paper) <a name="howsocial_others"></a></summary>
+<p>
 
 * action-seek-conference-discussion, 7
 > And then sometimes listening to talks ... its easier to understand a paper if someone presented it in a conference. So listening to a shorter version of it, the paper might be too heavy and too full of details.
@@ -696,7 +765,7 @@
 
 ### Unorganized because of being too infrequent, incorrect, or not a focus for the paper.
 
-**Practices and painpoints**
+<b>Practices and painpoints</b>
 
 * action-alternatebw-recency-relevance, 4
 * action-alternatebw-search-discovery, 3
@@ -724,7 +793,7 @@
 * pp-no-talk, 1
 * pp-trouble-refinding-items, 2
 
-**Tools for saving and note-taking**
+<b>Tools for saving and note-taking</b>
 
 * tool-overleaf, 8
 * tool-ipad, 8
@@ -748,7 +817,7 @@
 * tool-icloud-strogae, 1
 * tool-trello, 1
 
-**Other tools**
+<b>Other tools</b>
 
 * tool-googlescholar, 18
 * tool-google-search, 9
@@ -785,10 +854,10 @@
 * tool-research-gate, 1
 * tool-youtube, 1
 
-**Participant designations + research areas**
+<b>Participant designations + research areas</b>
 
 Redacted for privacy.
 
-**Participant job goals**
+<b>Participant job goals</b>
 
 Redacted for privacy.
