@@ -12,7 +12,7 @@ Repository accompanying paper:
 
 :memo: A twitter thread: https://twitter.com/MSheshera/status/1613388613126963203 
 
-:blue_book: Paper as published by ACM: TODO.
+:blue_book: Paper as published by ACM: https://dl.acm.org/doi/10.1145/3576840.3578309 
 
 ### Repository Contents
 
@@ -35,12 +35,19 @@ This repository contains the materials resulting from the qualitative analysis o
 
 ### Citation
 
-<!---
 ```bibtex
-@misc{mysore2023dslitreviews,
-      title={How Data Scientists Review the Scholarly Literature}, 
-      author={Sheshera Mysore and Mahmood Jasim and Haoru Song and Sarah Akbar and Andre Kenneth Chase Randall and Narges Mahyar},
-      year={2023}      
+@inproceedings{mysore2023dslitreviews,
+	author = {Mysore, Sheshera and Jasim, Mahmood and Song, Haoru and Akbar, Sarah and Randall, Andre Kenneth Chase and Mahyar, Narges},
+	title = {How Data Scientists Review the Scholarly Literature},
+	year = {2023},
+	isbn = {9798400700354},
+	publisher = {Association for Computing Machinery},
+	address = {New York, NY, USA},
+	url = {https://doi.org/10.1145/3576840.3578309},
+	doi = {10.1145/3576840.3578309},
+	pages = {137–152},
+	numpages = {16},
+	location = {Austin, TX, USA},
+	series = {CHIIR '23}
 }
 ```
--->
